@@ -1,14 +1,14 @@
 # Snake
 
-por [Tomate Ruso](xxx@gmail), 2do 13
-v250821
+por [Tomate Ruso](xxx@gmail), 2do 13  
+v250821  
 
 
 
 
 # Descripción
 
-Sin te divertís con ésto, GAME OVER :)
+Si no te divertís con ésto, GAME OVER :)
 
 
 
@@ -21,7 +21,7 @@ Sin te divertís con ésto, GAME OVER :)
 
 # Licencia
 
-[GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)  
 (C) Tomare Ruso  
 (C) [Robótica - AITEC - CNBA](https://www.cnba.uba.ar/novedades/inscripcion-al-curso-de-robotica)  
 
