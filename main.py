@@ -1,8 +1,13 @@
 #
 # **Snake**
 # por [Tomate Ruso](xxx@gmail), 2do 13
+# v250827
 #
-# v250821
+# historial de versiones:
+# v250821 - original de Tomate Ruso
+# v250827 - comezamos a colaborar en el curso (solucionamos bug de puntaje)
+#
+#
 #
 # Licencia: [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 # (C) Tomare Ruso
@@ -98,6 +103,7 @@ while True:
         while True:
             display.scroll("PRESS A TO RESTART",50)
             if button_a.was_pressed():
+                score = 0
                 break
             sleep(10)
         SNAKE_COLOR = 5
