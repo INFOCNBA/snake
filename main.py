@@ -10,7 +10,7 @@
 #
 #
 # Licencia: [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-# (C) Tomare Ruso
+# (C) Tomate Ruso
 # (C) [Robótica - AITEC - CNBA](https://www.cnba.uba.ar/novedades/inscripcion-al-curso-de-robotica)
 #
 
