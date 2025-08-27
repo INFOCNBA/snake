@@ -13,7 +13,7 @@ Si no te divertís con ésto, GAME OVER :)
 
 Escrito en Python para [BBC micro:bit](https://www.microbit.org/) durante el [curso de Robótica](https://www.cnba.uba.ar/novedades/inscripcion-al-curso-de-robotica), por iniciativa de Tomate Ruso. Está actualmente en constante evolución, para incorporar temas de Programación y Electrónica, por lo que se recomienda revisar  seguido éste repo. 
 
-![[README.d/snake_lita.png]]
+![lita jugando](README.d/snake_lita.png)
 
 # Instalación
 
@@ -39,8 +39,8 @@ Notas sobre el software:
 1. apretá botonitos
 2. tratá de pasar el récord actual:
 
-![[README.d/snake_teatro.png]]
-(14 puntos... esperando que comience la obra)
+![esperando que comience la obra](README.d/snake_teatro.png)
+14 puntos!!
 
 # Cómo colaborar
 
